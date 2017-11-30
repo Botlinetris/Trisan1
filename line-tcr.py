@@ -9,67 +9,67 @@ import re,ast,string,os
 import os.path,sys,urllib,shutil,subprocess
 
 cl = LINETCR.LINE()
-cl.login(token="EmJUlnlkjvAXJq4lMDK5.5Cu7yw/ipCUcuMRsS8zVfq.W2yazplz78zkTk/bqcuO8MTx13hr3mwaToo8Gx44nDI=")
+cl.login(token="EmJUlnlkjvAXJq4lMDKCu7yw/ipCUcuMRsS8zVfq.W2yazplz78zkTk/bqcuO8MTx13hr3mwaToo8Gx44nDI=")
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="En6luANG5t5PwnLFG081.82YW3sF0Bn7sgQxY5sxbCq.nxCWsVYHRAfux21cQIvPNdiWvsKbEEG0kgAhM8268uw=")
+ki.login(token="En6luANG5t5PwnLFG081.82YW3sF0Bn7sgQxY5sx.nxCWsVYHRAfux21cQIvPNdiWvsKbEEG0kgAhM8268uw=")
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="EmwBCxE06SJvxgx1oVi6.iPBRaR1RMNZ6JK83Lr8Y1G.vjv3plNJlURcg064ojglt80/V1hrnKodi9gg8E04wAk=")
+kk.login(token="EmwBCxE06SJvxgx1oVi6.iPBRaR1RMNZ6JK83Lr8Y1G.vjv3plNRcg064ojglt80/V1hrnKodi9gg8E04wAk=")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="EmAc5fKepHjFNBfMHdz8.JML4H1XdaTwzS9RX/sR/ka.nvLTzV7C0yCX4kDF/u/Ps/d+A6R+YzpRveAjnKUQbcU=")
+kc.login(token="EmAc5fKepHjFNBfMHdz8.JML4H1XdaTwzS9RX/sR/ka.nvV7C0yCX4kDF/u/Ps/d+A6R+YzpRveAjnKUQbcU=")
 kc.loginResult()
 
 ke = LINETCR.LINE()
-ke.login(token="EnfxhZKwcZSx68OMTa61.HmbgfWQSObUqoejBqKjuyq./oaefT6yehtzr9Z3kvQBh1TNyVdir1kbSH+SV0J/uMM=")
+ke.login(token="EnfxhZKwcZSx68OMTa61.HmbgfWQSObUqoejBqKju/oaefT6yehtzr9Z3kvQBh1TNyVdir1kbSH+SV0J/uMM=")
 ke.loginResult()
 
 ko = LINETCR.LINE()
-ko.login(token="EnHpjp1a4yh3CBhhFr0b.c+bOGekcIcD4gxRUrkC16W.+QvcJaY8u5ihdnRH78xPF7IBDbEdt/+S/xwVRwPfMFs=")
+ko.login(token="EnHpjp1a4yh3CBhhFr0b.c+bOGekcIcD4gxRUrkC16W.+QaY8u5ihdnRH78xPF7IBDbEdt/+S/xwVRwPfMFs=")
 ko.loginResult()
 
 ks = LINETCR.LINE()
-ks.login(token="Em9gHjjS6WemwzWn4bK5.C14lfzxM4FuxU2yIGWHg5q.99pN2k7l0wMD/4JWgdAtU5ced1JBXLq5ZpZg7vTiACo=")
+ks.login(token="Em9gHjjS6WemwzWn4bK5.C14lfzxM4FuxU2yIGWHg5q.99pN2k7lD/4JWgdAtU5ced1JBXLq5ZpZg7vTiACo=")
 ks.loginResult()
 
 ku = LINETCR.LINE()
-ku.login(token="EmWzT6bEM08wY3sczrp4.FFsjh5E9IQTr87JOu0eg1a.Wpxakc1ZnYcX/TQIKdZE3erYiDQx+dBRjOVOIikbmcs=")
+ku.login(token="EmWzT6bEM08wY3sczrp4.FFsjh5E9IQTr87JOu0eg1a.Wpxakc1cX/TQIKdZE3erYiDQx+dBRjOVOIikbmcs=")
 ku.loginResult()
 
 ka = LINETCR.LINE()
-ka.login(token="EnE2ydI48WHdR9457tOe.rHrHCJlFm9PiD3fCm65pNG.NC+2FOuDOgSJmyfLbAq4k+G1bkL7bxVvJFnOBlhXcd0=")
+ka.login(token="EnE2ydI48WHdR9457tOe.rHrHCJlFm9PiD3fCm65pNG.NC+2FOSJmyfLbAq4k+G1bkL7bxVvJFnOBlhXcd0=")
 ka.loginResult()
 
 kb = LINETCR.LINE()
-kb.login(token="EmVRXTqo1mlqtcaAByQ8.D6VIpSM2otkTCurxH4Vq/a./EInNotVyh9oxTpZbXTHTl3bnbCdShvpwLbvl9fduE0")
+kb.login(token="EmVRXTqo1mlqtcaAByQ8.D6VIpSM2otkTCurxH4Vq/a./EInNotVyxTpZbXTHTl3bnbCdShvpwLbvl9fduE0")
 kb.loginResult()
 
 b1 = LINETCR.LINE()
-b1.login(token="EndFmJBugo12IdPFKOQ4.xWk4769z47gTIM2HcShAHa.VcQyp9Y4r7EVeQsmnoFwrmhFVWbTL8zuqsZoNCXzD5g=")
+b1.login(token="EndFmJBugo12IdPFKOQ4.xWk4769z47gTIM2HcShAHa.VcQyp9Y4reQsmnoFwrmhFVWbTL8zuqsZoNCXzD5g=")
 b1.loginResult()
 
 kj = LINETCR.LINE()
-kj.login(token="Envz4idLVbtEpK6Lf909.W1o8pvjlRw96n3m4XxJGMq.defVWa+keOQ3qT5bE86g8+udoV8+ChyIKrQWFOqDBR0=")
+kj.login(token="Envz4idLVbtEpK6Lf909.W1o8pvjlRw96n3m4XxJGMq.defVWa+keOQ3bE86g8+udoV8+ChyIKrQWFOqDBR0=")
 kj.loginResult()
 
 mj = LINETCR.LINE()
-mj.login(token="EnuI3nL6F7hEdGabYDjc.SYK+F7sXCsleQg1kCLEzta.9jGwsvNx8yougneCaxkM4MWV12/Chxl5MYUEKuxuNr8=")
+mj.login(token="EnuI3nL6F7hEdGabYDjc.SYK+F7sXCsleQg1kCLEzta.9jGwsvNxugneCaxkM4MWV12/Chxl5MYUEKuxuNr8=")
 mj.loginResult()
 
 k2 = LINETCR.LINE()
-k2.login(token="EnSrcUrGy1UlRHYdHuj9.VWtBSximFtqX1daFa0VL6q.njvNRNcuNzgEbj/PmSxHm2JVc/VBY5qrIzuCYfrmZ2o=")
+k2.login(token="EnSrcUrGy1UlRHYdHuj9.VWtBSximFtqX1daFa0VL6q.njvNRuNzgEbj/PmSxHm2JVc/VBY5qrIzuCYfrmZ2o=")
 k2.loginResult()
 
 k3 = LINETCR.LINE()
-k3.login(token="EnZvoE9qEzOin790lPf1.ZySAgXWuzXIRX2B8heRO4q.m7QZSKUHSCM6ghAjgdDsJXEAXKZcV2D5EYC0xW5c5/8=")
+k3.login(token="EnZvoE9qEzOin790lPf1.ZySAgXWuzXIRX2B8heRO4q.m7QZSKUM6ghAjgdDsJXEAXKZcV2D5EYC0xW5c5/8=")
 k3.loginResult()
 
 k4 = LINETCR.LINE()
-k4.login(token="EnN1UkEiI7z6bXqSjfSe.f1+n/j5bgp7TlKCoIXIIhG.aCtWDRVvRwBkInN9cpdcCTLBiXHMPV4G7kD2zgy/UoI=")
+k4.login(token="EnN1UkEiI7z6bXqSjfSe.f1+n/j5bgp7TlKCoIXIIhG.aCtWDRVBkInN9cpdcCTLBiXHMPV4G7kD2zgy/UoI=")
 k4.loginResult()
 # client_id = ''
 # client_secret = ''
